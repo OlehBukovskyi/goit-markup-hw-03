@@ -131,7 +131,7 @@ gap: 24px;
     margin-bottom: 8px;
     
 }
-.our-team-background{ 
+.our-team-background { 
     background-color:   #f4f4fd;
     padding-top: 120px;
     padding-bottom: 120px;
@@ -252,6 +252,8 @@ margin-bottom: 72px;
 .our-team-list {
    background-color:#FFF;
    border-radius: 0px 0px 4px 4px;
+   width: calc((100% - 72px)/4);
+
 }
 .our-team-p {
     line-height: 1.5;
